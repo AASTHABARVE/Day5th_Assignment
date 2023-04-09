@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90b69b94-62ea-4e22-9945-3050ca34eea2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/day5Basic/EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/day5Basic/FactorPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/day5Basic/FlipCoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/day5Basic/HarmonicNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/day5Basic/LargeInThreeEle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/day5Basic/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/day5Basic/LeapYearNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/day5Basic/QuotienAndRemainder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/day5Basic/SwapTwoNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/day5Basic/VowelOrConsonant.java" afterDir="false" />
+    <list default="true" id="90b69b94-62ea-4e22-9945-3050ca34eea2" name="Changes" comment="Day 5 assignment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +20,20 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,12 +44,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Refresh/IdeaProjects/Day5/src/com/bridgelabz/day5Basic"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,6 +60,54 @@
       <option name="presentableId" value="Default" />
       <updated>1680838252938</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 5 assignment">
+      <created>1681042239886</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681042239886</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="5dd6abfa-27b3-4cff-81d5-8c446e8b70d0">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="5dd6abfa-27b3-4cff-81d5-8c446e8b70d0" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 5 assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 5 assignment" />
   </component>
 </project>
